@@ -8,15 +8,15 @@ Social Media Icons using Pure HTML and CSS.
 + Tap the WhatsApp icon to chat with me on WhatsApp.
 + Click the Email icon to send me an email message.
   
-![20230913123759 - Trim](https://github.com/RachanaSonu/SocialMedia-Icons-Profile/assets/37769405/ee642783-3ef4-442a-92cf-bbe6d7df20e5)
+![20230913123759 - Trim](https://github.com/RachanaSonu/Simple-Projects/assets/37769405/bb60f0c2-aa77-43de-b1b6-201db2930c98)
+
 
 # Profile
  Profile cards with chips and fluid typography using HTML and CSS.
 
  This simple profile card will display your photo, name, programming languages and a link to your LinkedIn and GitHub profile. 
-
-![_F__Social-Media_Profile_profile html](https://github.com/RachanaSonu/SocialMedia-Icons-Profile/assets/37769405/c98ed7f4-c9f1-4545-aa4e-4c80752157be)
-
+ 
+![_F__Social-Media_Profile_profile html](https://github.com/RachanaSonu/Simple-Projects/assets/37769405/b47ed408-6ed0-4bef-8c49-76b59e6ba775)
 
 # Simple Calculator
 Simple Calculator using HTML,CSS and JavaScript.
