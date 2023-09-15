@@ -1,0 +1,101 @@
+.multicolor {
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    /* font: 3em ;  */
+    font-size: 2em;
+    /* font-style:italic; */
+
+    /* background: linear-gradient(to right, rgba(255, 215, 255, 0) 0%, rgba(225, 255, 255, 0.5) 20%, rgba(255, 255, 255, 0) 61%), linear-gradient(rgb(97, 183, 217) 52%, rgb(224, 246, 255) 60%, rgb(78, 99, 132) 61%); you can change the colors based on your preference */
+    background: linear-gradient(to right, rgb(1, 1, 1) 35%, rgb(235, 6, 6) 30%, rgba(255, 255, 255, 0) 61%), linear-gradient(rgb(97, 183, 217) 52%, rgb(17, 202, 57) 80%, rgb(219, 234, 6) 81%); /
+    background-clip: text; /*it defines how far the background should extend within an element, here we set it to text */
+    -webkit-background-clip: text; /*for browsers compatibility */
+    -webkit-text-fill-color: transparent; /* specifies the fill color of text characters. We use transparent to use the background as our text fill  */
+    
+
+    
+
+    /* background: linear-gradient(to left,
+            violet,
+            indigo,
+            blue,
+            green,
+            yellow,
+            orange,
+            red);
+    -webkit-background-clip: text;
+    color: transparent; */
+}
+
+
+
+/* .multicolor span:nth-child(1) {
+    color: red;
+  }
+
+  .multicolor span:nth-child(2) {
+    color: green;
+  }
+
+  .multicolor span:nth-child(3) {
+    color: blue;
+  }
+
+  .multicolor span:nth-child(4) {
+    color: orange;
+  }
+
+  .multicolor span:nth-child(5) {
+    color: purple;
+  } */
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.social {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 24px;
+    list-style: none;
+    flex-direction: row;
+}
+
+.social a {
+    width: 50px;
+    height: 50px;
+    /* border-radius: 50%; */
+    /* outline: 2px solid whitesmoke; */
+    cursor: pointer;
+    transition: all 0.3s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+.social a:hover {
+    outline-offset: 3px;
+    transition: all 0.3s;
+}
+
+.social a img {
+    transition: all 0.3s;
+}
+
+.social a:hover img {
+    transform: scale(1.15);
+}
+
+/* .social li:nth-child(1) a:hover{
+    background-color: #0a66c2;
+    background: radial-gradient(circle at 30% 107%,#fdf497 0%,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285AEB 90%);
+} 
+
+.social li:nth-child(2) a:hover{
+    background-color: gray
+} */
