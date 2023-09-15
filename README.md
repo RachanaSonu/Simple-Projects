@@ -10,13 +10,12 @@ Social Media Icons using Pure HTML and CSS.
   
 ![20230913123759 - Trim](https://github.com/RachanaSonu/Simple-Projects/assets/37769405/bb60f0c2-aa77-43de-b1b6-201db2930c98)
 
-
 # Profile
  Profile cards with chips and fluid typography using HTML and CSS.
 
  This simple profile card will display your photo, name, programming languages and a link to your LinkedIn and GitHub profile. 
  
-![_F__Social-Media_Profile_profile html](https://github.com/RachanaSonu/Simple-Projects/assets/37769405/b47ed408-6ed0-4bef-8c49-76b59e6ba775)
+![Screenshot (10)](https://github.com/RachanaSonu/Simple-Projects/assets/37769405/365953fb-719d-401c-8e50-697cc42459e3)
 
 # Simple Calculator
 Simple Calculator using HTML,CSS and JavaScript.
