@@ -31,3 +31,6 @@ You can create a basic to-do list that allows users to add tasks, display them o
 
 ![20230915184901 - Trim (2)](https://github.com/RachanaSonu/HTML-CSS-JavaScript_Projects/assets/37769405/8cbe17b5-8afd-410f-b00c-88a51f19c80c)
 
+# Installation
+git clone https://github.com/RachanaSonu/Simple-Projects.git
+
