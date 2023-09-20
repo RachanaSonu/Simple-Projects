@@ -1,5 +1,5 @@
 # Projects
-Using HTML,CSS and JavaScript creating simple projects.
+Using HTML and CSS creating simple projects.
 
 # Media-Icons
 Social Media Icons using Pure HTML and CSS.
@@ -16,13 +16,6 @@ Social Media Icons using Pure HTML and CSS.
  This simple profile card will display your photo, name, programming languages and a link to your LinkedIn and GitHub profile. 
  
 ![Screenshot (10)](https://github.com/RachanaSonu/Simple-Projects/assets/37769405/365953fb-719d-401c-8e50-697cc42459e3)
-
-# To Do List
-To Do List using HTML,CSS and JavaScript.
-
-You can create a basic to-do list that allows users to add tasks, display them on the page, and interact with the tasks (e.g., mark them as completed or delete them or edit them).
-
-![20230915184901 - Trim (2)](https://github.com/RachanaSonu/HTML-CSS-JavaScript_Projects/assets/37769405/8cbe17b5-8afd-410f-b00c-88a51f19c80c)
 
 # Installation
 git clone https://github.com/RachanaSonu/Simple-Projects.git
