@@ -1,6 +1,13 @@
 # Projects
 Using HTML and CSS creating simple projects.
 
+# Clock
+Analog Clock using HTML,CSS and JavaScript.
+
+I've implemented this feature using a combination of HTML for the structure, CSS for styling and themes, and JavaScript for the interactive behavior, allowing users to easily switch between dark and light modes.
+
+![Alt text](<20230923233512 - Trim.gif>)
+
 # Media-Icons
 Social Media Icons using Pure HTML and CSS.
 + Click the LinkedIn icon to visit my LinkedIn Profile.
